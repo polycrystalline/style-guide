@@ -1,0 +1,419 @@
+<table class="ui table membership_table">
+<thead>
+<tr><th>Name</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr></thead>
+<tbody>
+<tr>
+<td>
+<a href="">
+Amanda Casey
+</a>
+</td>
+<td>
+
+</td>
+<td>
+amanda.casey@ilabsolutions.com
+</td>
+<td>
+5555555555
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/724662/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/724662/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="" target="">
+Audrey Bahrani
+</a>
+</td>
+<td>
+
+</td>
+<td>
+audrey.bahrani@ilabsolutions.com
+</td>
+<td>
+617.297.2805
+</td>
+<td>
+<span><img border="0" src="" class="title="" data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/649781/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/649781/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="" target="_blank">
+Bas Van Der Brugge
+</a>
+</td>
+<td>
+
+</td>
+<td>
+bas.vanderbrugge@ilabsolutions.com
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/198018/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/198018/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/about/show_profile/78" target="_blank">
+Danielle Bird
+</a>
+</td>
+<td>
+
+</td>
+<td>
+danielle.bird@ilabsolutions.com
+</td>
+<td>
+617.297.2805
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/68629/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/68629/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/8435" target="_blank">
+Darah Arcila
+</a>
+</td>
+<td>
+
+</td>
+<td>
+darah.arcila@ilabsolutions.com
+</td>
+<td>
+(617) 297-2805
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/67778/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/67778/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/425257" target="_blank">
+Elliott Heigert
+</a>
+</td>
+<td>
+
+</td>
+<td>
+elliott.heigert@ilabsolutions.com
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/649769/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/649769/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/9291" target="_blank">
+Franklyn Crane
+</a>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+darah.lacer@ilabsolutions.com
+</td>
+<td>
+555-555-5678
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/132082/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/132082/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/493100" target="_blank">
+Gerard Gibbs
+</a>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+gerard.gibbs@ilabsolutions.com
+</td>
+<td>
++61 405 668 565
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/800421/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/800421/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/524499" target="_blank">
+Jeff Holden
+</a>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+jeff.holden@ilabsolutions.com
+</td>
+<td>
+555-555-5555
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/777574/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/777574/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/11659" target="_blank">
+Jessica Evans
+</a>
+</td>
+<td>
+
+</td>
+<td>
+jessica.evans@ilabsolutions.com
+</td>
+<td>
+937-660-8570
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/236212/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/236212/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/31292" target="_blank">
+Jessica Lewis
+</a>
+</td>
+<td>
+
+</td>
+<td>
+jessica.lewis@ilabsolutions.com
+</td>
+<td>
+222-222-2222
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/338624/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/338624/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/203243" target="_blank">
+Jessie Brown
+</a>
+</td>
+<td>
+
+</td>
+<td>
+jessie.brown@ilabsolutions.com
+</td>
+<td>
+303-800-8674
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/472046/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/472046/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/5161" target="_blank">
+Joshua Morgan
+</a>
+</td>
+<td>
+
+</td>
+<td>
+joshua.morgan@ilabsolutions.com
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/68627/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/68627/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/121550" target="_blank">
+Keith Dance
+</a>
+</td>
+<td>
+
+</td>
+<td>
+keith.dance@vanderbilt.edu
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/874508/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/874508/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<script>
+  $j('.wizard.icon').popup()
+</script>
+<tr>
+<td>
+<a href="/about/show_profile/425259" target="_blank">
+Kim Powell
+</a>
+</td>
+<td>
+
+</td>
+<td>
+kimberly.powell@ilabsolutions.com
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/649777/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/649777/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/about/show_profile/257297" target="_blank">
+Lisa Wong
+</a>
+</td>
+<td>
+
+</td>
+<td>
+lisa.wong@ilabsolutions.com
+</td>
+<td>
+617-297-2805
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/827188/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/827188/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/about/show_profile/202862" target="_blank">
+Michaele Preston
+</a>
+</td>
+<td>
+
+</td>
+<td>
+michaele.preston@ilabsolutions.com
+</td>
+<td>
+​(214) 731-7598
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/687256/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/687256/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/about/show_profile/210884" target="_blank">
+Michelle Detwiler
+</a>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+michelle.detwiler@ilabsolutions.com
+</td>
+<td>
+
+</td>
+<td>
+<span><img border="0" src="/images/icons/user_edit_bullet.png" class="activate_popup_helper" title="This user is a group admin " data-content="This user is a group admin " data-variation="inverted"></span>
+<a data-remote="true" href="/membership/647303/edit_member?action_type=association"><i class="edit icon with_popup" data-content="Edit this user's membership"></i></a>   <a url="/about/647303/remove_association?action_type=association" confirm="Are you sure you want to remove this member?" class="j_link_to_remote activate_popup_helper" title="Remove this user from this group." data-content="Remove this user from this group." data-variation="inverted" href="#"><img src="/images/cross-small.png" alt="Cross small"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/about/show_profile/26384" target="_blank">
+Pavel Shegai
+</a>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+pavel.shegai@ilabsolutions.com
+</td>
+<td>
+
+</td>
+</tbody>
+</table>

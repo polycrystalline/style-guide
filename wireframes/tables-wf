@@ -1,0 +1,74 @@
+<h2 class="ui dividing header">
+    Table Styles
+    <div class="sub header">Use these for deep datasets.</div>
+</h2>
+
+<table class="ui striped table">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Description</th>
+      <th class="right aligned">Qty</th>
+      <th class="right aligned" >Unit Price</th>
+      <th class="right aligned">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Scans</td>
+      <td>CT Scan</td>
+      <td class="right aligned">20</td>
+      <td class="right aligned">30.00</td>
+      <td class="right aligned">600.00</td>
+    </tr>
+    <tr>
+      <td>Scans</td>
+      <td>MRI</td>
+      <td class="right aligned">20</td>
+      <td class="right aligned">30.00</td>
+      <td class="right aligned">600.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+    <tr>
+      <td>Services</td>
+      <td>Scans Services</td>
+      <td class="right aligned">5</td>
+      <td class="right aligned">50.00</td>
+      <td class="right aligned">250.00</td>
+    </tr>
+  </tbody>
+</table>
